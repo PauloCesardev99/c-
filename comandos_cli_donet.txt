@@ -1,0 +1,36 @@
+Definições
+
+dotnet cli
+
+-donet new console => Novo Console Application
+-Donet new classlib => Nova Class Library
+-Dotnet new web => Novo Projeto ASP.NET Core
+-Donet new mvc = Novo Projeto ASP.NET CORE
+-Dotnet new webApi = Novo Projeto ASP.NET Core
+-Dotnet new mstest => Novo projeto Microsfot Test
+
+-Criar um projeto é o mesmo que gerar os arquivos inicias de uma aplicação
+-Vai sempre gerar os arquivos na pasta atual
+-Para especificar uma pasta, podemos utilizar o "-o" dotnet new console -o NOMEDAPASTA /Cria a pasta com arquivo Donet
+-dotnet new console -o MeuApp
+-Vai criar uma nova pasta chamada MeuApp com os arquivos Dentro.
+
+
+Fluxo de Execução
+
+dotnet restore
+-Restaura todos os pacotes que a aplicação precisa para ser executada
+
+dotnet build
+-Compila a aplicação
+
+dotnet clean
+-Limpa as compilações anteriores
+
+dotnet run
+-Compila e executa a aplicação.
+
+
+dotnet new console --use-program-main criar dotnet com estrutura antiga
+
+

@@ -1,0 +1,9 @@
+Definições
+
+-Desta forma, podemos dizer ao .NET qual ambiente estamos utilizando
+
+- dotnet run --environment=$SEU_AMBIENTE
+- dotnet run --environment=development
+- dotnet run --environment=production
+- o comando run não executa depuração(debug)
+-Neste modo sua aplicação não vai parar nos break Points(Explicado andiante)

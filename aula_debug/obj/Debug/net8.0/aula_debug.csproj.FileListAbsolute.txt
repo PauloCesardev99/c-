@@ -1,0 +1,14 @@
+C:\Users\R3RO\Desktop\c#\aula_debug\bin\Debug\net8.0\aula_debug.exe
+C:\Users\R3RO\Desktop\c#\aula_debug\bin\Debug\net8.0\aula_debug.deps.json
+C:\Users\R3RO\Desktop\c#\aula_debug\bin\Debug\net8.0\aula_debug.runtimeconfig.json
+C:\Users\R3RO\Desktop\c#\aula_debug\bin\Debug\net8.0\aula_debug.dll
+C:\Users\R3RO\Desktop\c#\aula_debug\bin\Debug\net8.0\aula_debug.pdb
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.AssemblyInfoInputs.cache
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.AssemblyInfo.cs
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.csproj.CoreCompileInputs.cache
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.dll
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\refint\aula_debug.dll
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.pdb
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\aula_debug.genruntimeconfig.cache
+C:\Users\R3RO\Desktop\c#\aula_debug\obj\Debug\net8.0\ref\aula_debug.dll
